@@ -91,3 +91,4 @@ Set the model in the picker before sending each stage prompt. Fable 5.2 is used 
 23. **China screen results refined:** carve-outs are tested on the business being acquired; a wholly owned China plant with no Chinese partner is recorded as "fails today – remediable", a second-tier result reported separately from passes.
 24. **Cheque size set:** up to US$500m equity per investment, with a working ceiling of about US$1bn enterprise value for whole-company targets, to be confirmed.
 25. **Ownership set to minority by default:** majority ownership is not required; the size ceiling applies only to optional control deals; routes to, rights in and exits from minority stakes are examined in every stage.
+26. **Stage prompts aligned to the minority mandate:** Stage 4 rewritten for minority stakes (route, rules, rights, liquidity, no acquisition leverage); Stages 5 and 6 carry an ownership note and a revised top target tier.

@@ -4,6 +4,8 @@
 
 **Recommended model:** Sonnet 5.5.
 
+**Ownership:** the default investment is a minority stake with influence (see Ownership in the master instructions). Throughout this stage read "acquisition", "target" and "acquisition candidate" as an investment in, or candidate for, a meaningful minority stake unless the Stage 4 handoff calls for control. For every company record the shareholder structure (controlling holder, founder, cross-shareholders, free float), the stake US$500m or less would buy, the plausible route to that stake, and any evidence that the company or a holder would welcome an investor. Origination means approaching companies and their major shareholders about a partnership stake, not running a sale process. Value-creation plans may include only what a minority investor can influence.
+
 ## Mandate
 Convert the surviving theses into a practical origination and acquisition programme built on **real companies**, without inventing ownership, financials, seller intentions or deal opportunities.
 
@@ -18,7 +20,7 @@ This stage carries the highest risk of plausible-sounding but wrong company fact
 3. **Three tiers, with evidence thresholds.** Companies that fail any China screen test are excluded and listed separately with the test failed and the source. Companies with an Unknown on any test may sit no higher than the monitor list. Report how many otherwise-suitable companies the screen removed, per thesis.
    - **Monitor list** — fits the archetype; nothing known about availability.
    - **Potentially approachable** — a structural reason an approach could be received (for example founder succession, non-core division, long sponsor hold), with the source.
-   - **Credible acquisition candidate** — a documented signal: an announced sale process or strategic review, a sponsor hold beyond about five years, or a public statement by the owner. Without such a signal, a company cannot be in this tier.
+   - **Credible investment candidate** — a documented signal that a stake could be obtained: a holder known to be selling or reducing, an announced capital raise or search for a partner, a strategic review, a sponsor hold beyond about five years, or a public statement by the company or owner. Without such a signal, a company cannot be in this tier.
 4. **Origination design.** Industry clusters, advisers and sector bankers, corporate development teams, founder outreach, sponsor portfolios and specialist networks. Describe categories and how to reach them; do not invent named contacts.
 5. **Platform versus single asset.** For a manufacturing-partner thesis, include how partnerships would be originated and structured (contract, licence, joint venture, carve-out with supply agreement) and what a sponsor adds in brokering them. Bolt-on fit, operating synergies, integration difficulty, concentration risk. Do not assume buy-and-build synergies are automatic; cite precedents where they worked or failed.
 6. **Diligence plan:** commercial, technical, financial, legal/regulatory (including export control and foreign-investment review, by acquirer domicile), IP, operational, quality and ESG. Distinguish what public research can answer from what needs confidential data, management meetings, and site or customer work.
