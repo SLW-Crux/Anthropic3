@@ -2,6 +2,8 @@
 
 **Required context:** `00_MASTER_INSTRUCTIONS.md`; the approved Stage 1 handoff, Tier 1 ledger, critical claims register, gap register and research agenda. Start with the capability declaration.
 
+**Recommended model:** Sonnet 5.5.
+
 ## Mandate
 Describe how the industry is structured and where demand realistically comes from. This stage is about **structure and demand only**. Segment profitability is Stage 2B; PE theses are Stage 3. Challenge growth narratives and adoption assumptions throughout.
 

@@ -2,6 +2,8 @@
 
 **Required context:** `00_MASTER_INSTRUCTIONS.md`; approved handoffs and files from Stages 1, 2A and 2B. Start with the capability declaration.
 
+**Recommended model:** Fable 5.2.
+
 ## Mandate
 Translate segment economics into **realistic and differentiated PE investment opportunities**. Separate buyout-suitable businesses from venture-stage, overly capital-intensive or structurally unattractive exposures.
 

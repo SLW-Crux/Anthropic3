@@ -2,6 +2,8 @@
 
 **Required context:** `00_MASTER_INSTRUCTIONS.md`; the approved Stage 4 handoff, thesis papers and models; the evidence, assumption and kill-criteria registers from earlier stages. Start with the capability declaration.
 
+**Recommended model:** Sonnet 5.5.
+
 ## Mandate
 Convert the surviving theses into a practical origination and acquisition programme built on **real companies**, without inventing ownership, financials, seller intentions or deal opportunities.
 

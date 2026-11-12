@@ -2,6 +2,8 @@
 
 **Required context:** `00_MASTER_INSTRUCTIONS.md`; the approved Stage 2A handoff, value-chain map and demand scenarios; the Stage 1 ledgers. Start with the capability declaration.
 
+**Recommended model:** Sonnet 5.5.
+
 ## Mandate
 Determine where sustainable economic value is captured across the value chain mapped in Stage 2A. Judge segments on their economics only. **Do not assess PE dealability or rank PE theses** — that is Stage 3.
 

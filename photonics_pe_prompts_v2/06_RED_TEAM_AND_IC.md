@@ -8,6 +8,8 @@ This stage has two parts with a gate between them: **6A red team**, then **6B IC
 
 **Run this in a fresh session that has not seen the earlier working.** Provide only: `00_MASTER_INSTRUCTIONS.md`, this prompt, the Stage 1–5 handoffs, and the evidence, claims, assumption, kill-criteria and company files. Do not provide earlier chat transcripts. Start with the capability declaration.
 
+**Recommended model:** Fable 5.2.
+
 ## Role
 You are the skeptical investment committee member. You did not write this work and have no stake in it. Your job is to find where it is wrong, weak or overconfident. Agreeing with the prior stages is acceptable only where you have tested a point and it held. Do not assume earlier recommendations are correct.
 
@@ -49,6 +51,8 @@ E. **Gate self-assessment and Stage Handoff.**
 # Stage 6B — Final investment committee package
 
 **Required context:** everything provided for 6A, plus the approved 6A report and the user's responses to it. This may continue in the 6A session.
+
+**Recommended model:** Sonnet 5.5 is sufficient; staying on Fable 5.2 in the same chat is also fine.
 
 ## Mandate
 Deliver an IC-ready **PE investment focus strategy** that incorporates the red-team findings. A recommendation to defer, to focus on adjacent established industrial businesses, or to avoid the sector is acceptable. Do not force a positive decision, and do not present an optimistic technology report as an investment recommendation.

@@ -18,19 +18,36 @@ A staged research programme to develop an evidence-backed, executable private eq
 
 ## Setup in Claude
 
-1. Create a **Project**. Paste `00_MASTER_INSTRUCTIONS.md` into the project instructions.
+1. Create a **Project**. Upload `00_MASTER_INSTRUCTIONS.md` to the project files (it is too long for the instructions box) and paste this into the project instructions:
+
+   > Before doing anything in any chat, read the project file 00_MASTER_INSTRUCTIONS.md in full and follow it throughout. It sets the mandate, scope, Fund Mandate rules, evidence system and handoff template for this research programme. Begin each chat with the capability declaration it requires. If you cannot read that file, stop and say so.
 2. Add the workbook `photonics_pe_evidence_review_100_2026-11-12.xlsx` to the project knowledge. **The workbook is not included in this ZIP.**
 3. Turn on **web search** and **code execution / file creation** so Claude can read the workbook and produce CSV/XLSX ledgers and models. Use Research mode for the heavier stages (1, 2A, 2B, 5) if available.
 4. The **Fund Mandate** table in the master instructions has target geography set: Asia Pacific, excluding China and any company with Chinese shareholding, manufacturing in China, or manufacturing with Chinese companies (joint ventures or Chinese contract manufacturers). "China" includes Hong Kong and Macau; Taiwan is in scope. Chinese customers and Chinese material or component suppliers are flagged but do not exclude a company; edit the geography rule if you intend otherwise. The master instructions also require every stage to examine the **manufacturing-partner opportunity**: Asia Pacific ex-China companies manufacturing European or US photonics solutions. Two further rules are set: **every level of the value chain is in scope** (materials, IP, manufacturing, distribution, services), and **this is private equity, not venture capital** — venture-stage companies are never targets. The other rows are optional. Any row left as NOT PROVIDED is handled by presenting results across bands and listing the conclusions that depend on it; Claude is instructed not to invent a value.
 
 ## How to run
 
-1. Start a **new chat for each stage** and paste that stage's prompt.
+1. Start a **new chat for each stage**, set the model (see below), attach `00_MASTER_INSTRUCTIONS.md` to the first message and paste that stage's prompt.
 2. Claude opens with a capability declaration. If it reports it cannot search the web or read the workbook, fix the settings before continuing.
 3. A stage may take several responses. Reply `CONTINUE STAGE N` until Claude reports nothing remains.
 4. Each stage ends with a **gate self-assessment** against the pass criteria in the prompt. Review it, check any "Partly met" or "Not met" items, and use `REVISE STAGE N` if needed.
 5. Download the stage's files (ledgers, registers, models) and its **Stage Handoff**. Attach them to the next stage's chat, or add them to the project knowledge.
-6. **Stage 6A must be independent.** Run it in a chat **outside the project** (so it cannot draw on earlier chats), paste in the master instructions and the 6A prompt, and attach only the handoffs and files — no transcripts. Then review its objections before sending `ADVANCE TO STAGE 6B`.
+6. **Stage 6A must be independent.** Run it in a chat **outside the project** (so it cannot draw on earlier chats), attach the master instructions, paste the 6A prompt, and attach only the handoffs and files — no transcripts. Then review its objections before sending `ADVANCE TO STAGE 6B`.
+
+## Which model to use
+
+Set the model in the picker before sending each stage prompt. Fable 5.2 is used where judgement matters most; Sonnet 5.5 is enough elsewhere and uses less of your allowance. Do not use Haiku.
+
+| Stage | Model |
+|---|---|
+| 1 — Tier 1 triage and sample check | Sonnet 5.5 |
+| 1 — Tier 2 onwards (Claude pauses and says "TIER 1 COMPLETE – READY FOR TIER 2"; switch model, then send `CONTINUE STAGE 1`) | Fable 5.2 |
+| 2A, 2B | Sonnet 5.5 |
+| 3 | Fable 5.2 |
+| 4 | Fable 5.2 |
+| 5 | Sonnet 5.5 |
+| 6A | Fable 5.2 |
+| 6B | Sonnet 5.5 (or stay on Fable 5.2) |
 
 ## Operating guidance
 
@@ -68,3 +85,4 @@ A staged research programme to develop an evidence-backed, executable private eq
 17. **Target geography set to Asia Pacific ex-China, with no Chinese shareholding and no manufacturing in China or with Chinese companies:** hard constraint on targets, a three-test China screen on every company in Stage 5, global analysis retained for demand, comparables and competitors, and the red team reports the cost of the constraint.
 18. **Manufacturing-partner opportunity added:** Asia Pacific ex-China companies manufacturing European or US photonics solutions (contract, licence, joint venture or carved-out plant) is examined at every stage, must appear as a candidate thesis in Stage 3, and is challenged specifically by the red team.
 19. **All value-chain levels and no venture capital:** scope names every level of participation including distribution and IP licensing; venture-stage companies are excluded as targets by a hard rule in the master instructions and the Stage 3 screen.
+20. **Model guidance and setup fix:** each stage names its recommended model (Fable 5.2 or Sonnet 5.5); Stage 1 pauses between Tier 1 and Tier 2 for the model switch; the master instructions are uploaded as a file with a short pointer in the instructions box.

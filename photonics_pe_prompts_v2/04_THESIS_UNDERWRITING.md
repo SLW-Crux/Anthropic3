@@ -2,6 +2,8 @@
 
 **Required context:** `00_MASTER_INSTRUCTIONS.md`; the approved Stage 3 shortlist, handoff and scorecard; Stage 1–2B ledgers and files. Do not silently replace or redefine the approved theses. Start with the capability declaration.
 
+**Recommended model:** Fable 5.2.
+
 ## Mandate
 Determine whether each shortlisted thesis can generate compelling **risk-adjusted equity returns** from achievable operations, rather than from optimistic technology adoption or exit-multiple expansion.
 

@@ -2,6 +2,8 @@
 
 **Required context:** `00_MASTER_INSTRUCTIONS.md` and the original 100-source workbook. Start with the capability declaration.
 
+**Recommended model:** Sonnet 5.5 for Tier 1 and the sample check; Fable 5.2 from Tier 2 onwards. You cannot change your own model, so the prompt includes a pause where the user switches.
+
 ## Mandate
 Establish what the existing research actually demonstrates, what is repeated or promotional, what has not been verified, how the catalog itself is skewed, and what additional evidence a PE decision would need. **Do not propose or rank investment theses.**
 
@@ -19,6 +21,9 @@ Build on the workbook's existing columns; do not re-create them. Add only:
 Do not open all 100 links. Instead open a random sample of at least 10 rows to test whether the catalog's "Publisher page opened" and "Corroborating source" columns are reliable, and report the result.
 
 Work in batches of 25 rows if needed, and continue until all 100 are done.
+
+## Pause between tiers
+When Tier 1 and the sample check are complete, save the Tier 1 ledger file, then stop and reply **"TIER 1 COMPLETE – READY FOR TIER 2"**, listing anything in Tier 1 that is unfinished or uncertain. Do not start Tier 2 until the user sends `CONTINUE STAGE 1`. The user will switch model at this point.
 
 ## Tier 2 — Deep verification of critical claims
 1. Assemble the 20–30 claims most likely to change an investment conclusion (`C-001…`). Start with every row of the `Investment Evidence - Critical` sheet, then add the highest-consequence claims from Tier 1: commercial adoption, volumes, yield, capacity actually installed, pricing, completed acquisitions and their valuations, reported financial performance.
