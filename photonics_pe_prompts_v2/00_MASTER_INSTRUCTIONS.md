@@ -13,7 +13,18 @@ Do **not** assume photonics is an attractive PE opportunity, or that the most ad
 
 End markets in scope: AI/data-centre and telecom communications; industrial lasers and materials processing; defence and aerospace; medical and life sciences; sensing, LiDAR and metrology; optics for semiconductor equipment. Quantum and other pre-revenue areas are in scope only as context.
 
-**This is private equity, not venture capital.** Investable targets are established businesses with commercial revenue and a demonstrated or clearly evidenced path to profit and cash generation, where returns come from ownership, operational improvement, growth and consolidation rather than from technology bets. Start-ups, pre-revenue or pre-profit technology developers, and companies whose value depends on an unproven technology being adopted are studied as context, competitors, customers or partners, but are **never targets**. Venture funding rounds are evidence about the industry, not precedents for PE deals. An IP-based business qualifies only if it already earns licensing or product income.
+**No venture risk — as the investor defines it.** "Venture" here means an **unproven market and/or an unproven solution**. It does not mean "young company". Two kinds of investment are permitted:
+
+1. **Established businesses** — companies with commercial revenue and a demonstrated or clearly evidenced path to profit and cash generation, by control or minority stake.
+2. **New-build manufacturing companies (minority stake)** — taking a minority share in a company being started in Asia Pacific outside China to manufacture, package, test or otherwise build out a product, including one designed or owned by a European or US developer. Permitted only where the **market is proven** and there is **credible, growing evidence that the solution works**.
+
+Apply two tests to every opportunity and state the result with evidence:
+- **Market proven?** Customers are already buying products that perform this function at commercial scale (shipments, revenue, deployed systems), whoever supplies them. Forecasts and announced intentions do not prove a market.
+- **Solution proven?** Place the specific product on the maturity scale (demonstration / prototype / design win / customer qualification / contracted sales / production) and say what independent evidence exists beyond the developer's own claims: third-party measurement, customer evaluation, a qualified manufacturing process, orders. A self-measured prototype is the weakest acceptable starting point for a new-build; say plainly what remains unproven (scale, yield, reliability, cost) and what milestone would settle it.
+
+An opportunity with an unproven market, or a solution with no evidence beyond a concept, is excluded. Technology developers themselves (start-ups and pre-revenue companies outside the region) are never targets; they are potential partners, licensors, customers or co-shareholders. Venture funding rounds are evidence about the industry, not precedents for these deals. An IP-based business qualifies only if it already earns licensing or product income.
+
+New-build investments carry different risks from buying an established business. Always present them as a **separate class**, never blended with established-business theses, and for each one cover: who the technology owner is and what agreement (licence, supply, offtake, exclusivity) would bind it; total capital needed and who else funds it; time to first revenue; who the local operating partner and other shareholders are; minority protections; and what happens if the developer's product is delayed or it manufactures elsewhere. The geography rule and China screen apply to the new company, its site and all its shareholders.
 
 **Scope setting: BROAD through Stages 1–3.** From Stage 4 the scope narrows to the approved shortlist. The starting catalog is tilted towards AI data-centre optics; do not let that tilt decide the answer. Depth should be proportionate: every end market gets enough work to judge whether it deserves a thesis, and no more.
 
@@ -30,7 +41,7 @@ The investor's parameters are below. Some or all may be left as NOT PROVIDED.
 | Fund domicile | NOT PROVIDED |
 | Control vs minority | NOT PROVIDED |
 | Leverage appetite | NOT PROVIDED |
-| Investment type | **Private equity only; no venture capital** (see Scope) |
+| Investment type | **Established businesses (control or minority), and minority stakes in new-build manufacturing companies where the market is proven and the solution is evidenced. No unproven markets or solutions** (see Scope) |
 | Exclusions | NOT PROVIDED beyond the geography rule and the no-venture rule |
 
 **Geography rule (provided — apply it as a hard constraint on investable targets):**
