@@ -34,7 +34,7 @@ The investor's parameters are below. Some or all may be left as NOT PROVIDED.
 | Parameter | Value |
 |---|---|
 | Fund size | NOT PROVIDED |
-| Equity cheque range | NOT PROVIDED |
+| Equity cheque range | **Up to US$500m per investment**; minimum NOT PROVIDED |
 | Target gross MOIC / IRR | NOT PROVIDED |
 | Hold period | NOT PROVIDED |
 | Target geography | **Asia Pacific, excluding China and excluding any company with Chinese shareholding, manufacturing in China, or manufacturing with Chinese companies** |
@@ -43,6 +43,12 @@ The investor's parameters are below. Some or all may be left as NOT PROVIDED.
 | Leverage appetite | NOT PROVIDED |
 | Investment type | **Established businesses (control or minority), and minority stakes in new-build manufacturing companies where the market is proven and the solution is evidenced. No unproven markets or solutions** (see Scope) |
 | Exclusions | NOT PROVIDED beyond the geography rule and the no-venture rule |
+
+**Cheque size (provided):** the equity cheque can be up to US$500m per investment. No minimum is given, so smaller deals remain in scope. Consequences:
+- Whole-company targets can be mid-sized, not only small. As a **working assumption to be confirmed by the user**, treat about US$1bn enterprise value as the ceiling for a whole-company acquisition (cheque plus debt or co-investment); state this assumption wherever it is used and show how conclusions change at US$500m (no debt) and US$1.5bn (with co-investors).
+- Companies above that ceiling are carve-out parents only.
+- For minority and new-build investments the cheque is the limit directly.
+- Convert local-currency values to US dollars at a stated rate and date.
 
 **Geography rule (provided — apply it as a hard constraint on investable targets):**
 - A target must be headquartered and principally operating in Asia Pacific outside China: for example Japan, South Korea, Taiwan, Singapore, Malaysia, Thailand, Vietnam, the Philippines, Indonesia, India, Australia and New Zealand.
@@ -62,7 +68,7 @@ Alongside other theses, look for opportunities in which an Asia Pacific ex-China
 - Demand for such partnerships is a claim to be evidenced (announced agreements, site moves out of China, customer statements, export-control or tariff drivers), not presumed.
 
 Where a parameter is NOT PROVIDED, **do not invent one and do not silently assume one**. Instead:
-- Present conclusions across explicit bands (for example deal size: under €100m, €100–500m, over €500m enterprise value; control and minority shown separately).
+- Present conclusions across explicit bands where a parameter is missing (control and minority shown separately). For deal size, use the cheque limit above: equity under US$100m, US$100–250m, US$250–500m.
 - Express returns as break-even conditions ("this works only if entry is below X and margin holds above Y") and against clearly labelled reference hurdles (2.0x / 2.5x / 3.0x gross MOIC; 15% / 20% / 25% gross IRR). These are reference points, not the investor's targets.
 - List every conclusion that would change with the mandate under "Mandate-dependent conclusions" in the Stage Handoff.
 - Treat fund domicile as unknown: describe foreign-investment review and export-control exposure in the relevant Asia Pacific target countries for different acquirer domiciles where it matters.
