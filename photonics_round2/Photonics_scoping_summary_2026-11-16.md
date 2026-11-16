@@ -1,10 +1,19 @@
 # Photonics in Asia Pacific outside China: preliminary scoping
 
-**Status at 16 November 2026. For consideration, not for decision.**
+**Scoping study. Status at 16 November 2026. For consideration, not for decision.**
 
 ## What this is
 
-Five days of desk research by AI, run in stages, on whether and where a private investor could invest in photonics. It is a scoping exercise. It is not a conclusive test of the thesis, because it did not reach most of the information such a test needs (see "What was not examined").
+A structured desk study of whether and where a private investor could invest in photonics in Asia Pacific outside China. It covered the full value chain, from materials to test equipment, and tested one specific argument: that demand will outrun supply for long enough to matter.
+
+The work behind it:
+
+- More than 1,000 sources logged, including company filings from Taiwan, Japan, Korea and the US, regulator documents and earnings materials.
+- About 150 companies listed across the region, about 75 of them screened against the ownership and manufacturing rule.
+- Four financial models, each rebuilt independently and found to reproduce.
+- A red-team review and a separate audit of the whole record.
+
+It is a scoping study. It narrows the field and identifies what decides the outcome. It is not a conclusive test of the thesis, because it relied on public sources and did not reach most private companies (see "What was not examined").
 
 ## The question and the mandate
 
@@ -60,4 +69,4 @@ A second wafer maker, VPEC, was examined and does not work at current prices.
 - Should the China rule, the minority-only stance or the cheque size be revisited, given how much each narrowed the field?
 - Should LandMark be tracked against the entry price above while that study is decided?
 
-*Figures come from the research programme's own outputs and have not been independently verified. Share prices were moving up to 10% a day at the time of writing.*
+*Method: AI-assisted desk research from public sources, 12–16 November 2026. About a third of logged sources were opened in full or in part; the rest were seen as search results. Figures come from the study's own outputs. Share prices were moving up to 10% a day at the time of writing.*
