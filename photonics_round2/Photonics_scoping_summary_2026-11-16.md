@@ -4,7 +4,7 @@
 
 ## The proposal
 
-Photonics is a candidate theme for capital seeking constrained supply outside China. Demand is being driven by AI data centres, supply is short in specific steps of the chain, and buyers are starting to secure supply that has no Chinese ties. This paper sets out what a first study found, what it could not reach, and the questions it leaves open.
+Photonics is a candidate theme for capital seeking constrained supply outside China. Demand is being driven by AI data centres, supply is short in specific steps of the chain, and buyers are signing long contracts and prepaying to secure it. This paper sets out what a first study found, what it could not reach, and the questions it leaves open.
 
 ## What this is
 
@@ -12,10 +12,10 @@ A structured desk study of the photonics value chain, from materials to test equ
 
 The work behind it:
 
-- More than 1,000 sources logged, including company filings from Taiwan, Japan, Korea and the US, regulator documents and earnings materials.
-- About 150 companies listed across the region, about 75 of them screened for Chinese ownership and manufacturing.
-- Four financial models, each rebuilt independently and found to reproduce.
-- A challenge review and a separate independent review of the whole record.
+- More than 1,100 sources logged, including company filings from Taiwan, Japan, Korea and the US, regulator documents and earnings materials.
+- About 150 companies listed across the region, about 70 of them screened for Chinese ownership and manufacturing.
+- Three financial models, each rebuilt independently and found to reproduce.
+- A challenge review and a separate independent review.
 
 It is a scoping study. It narrows the field and identifies what decides the outcome. It is not a conclusive test, because it relied on public sources and did not reach most private companies (see "What was not examined").
 
@@ -38,11 +38,11 @@ The study covered Asia Pacific only. US and European suppliers were used for com
 
 ## What the research supports
 
-- **Demand is large and growing.** Optics for AI data centres is a market of roughly US$18–23bn in 2026. Two internal models put 2030 at US$42–56bn, mostly on assumed inputs.
+- **Demand is large and growing.** The study's model puts optics for AI data centres at about US$23bn in 2026 and about US$42bn in 2030 in its base case, within a range of US$21–74bn. Most of its inputs are assumptions.
 - **Supply is short in specific steps:** indium-phosphide substrates, laser wafers and the best laser chips. Buyers have signed supply contracts of four to six years, the longest to 2031, and are prepaying for capacity.
-- **Profit sits with the scarce steps.** Laser makers earn margins above 40% at present; module assemblers about 10%.
+- **Profit sits with the scarce steps.** The leading laser maker's operating margin is about 42% on an adjusted basis and 28% as reported. Contract manufacturers earn about 10%.
 - **Listed companies are priced for this.** Minority stakes at November 2026 prices do not reach 2.0x in any central case.
-- **Few regional suppliers are free of Chinese ties today.** Most of those screened have a plant, a partner or a shareholder in China. That makes clean capacity rare, which is the point of the premise, and it also leaves few listed companies to invest in. No company yet has a verified pass.
+- **Few regional suppliers are free of Chinese ties today.** About half of those screened fail on a plant, a partner or a shareholder in China, and most of the rest could not be confirmed either way. That makes clean capacity rare, which is the point of the premise, and it also leaves few listed companies to invest in. No company yet has a verified pass.
 
 ## What is not established
 
@@ -55,26 +55,27 @@ The study covered Asia Pacific only. US and European suppliers were used for com
 **In its favour**
 
 - A US rule adopted in July 2026 already restricts equipment containing components from listed Chinese producers.
-- Adding optical modules to such rules is under active debate; large buyers are lobbying against it, which shows the proposal is taken seriously.
-- Customers are paying to secure non-Chinese supply: one chip maker has put about US$2bn into each of two US laser makers, and Western module makers are building capacity in Malaysia.
-- Chinese module makers are setting up production outside China, which suggests their customers already ask for it.
+- Adding optical modules to such rules is under active debate, and large buyers are lobbying against it.
+- Customers are paying to secure supply from Western makers: one chip maker has put about US$2bn into each of two US laser makers, and Western module makers are building capacity in Malaysia. The record does not show whether avoiding Chinese supply was a motive.
+- Chinese module makers are setting up production outside China. The record does not show why.
 
 **Against it, or not yet shown**
 
 - No rule in force covers optical modules, and the large Chinese module makers are reportedly not on the restricted list.
-- The follow-on rule now proposed tests where a product is made and favours US plants. As drafted it would exclude Asian plants as well as Chinese ones.
+- The follow-on rule now proposed is a Buy-American test. As drafted it would cover every plant outside the US, Asian as well as Chinese.
 - No allied country was found to have a comparable measure.
-- If a rule turns on place of manufacture and not ownership, Chinese-owned plants in South-East Asia qualify, and the advantage of clean ownership largely disappears.
+- A rule based on Chinese origin would leave Chinese-owned plants in South-East Asia uncovered. Only a rule based on ownership gives suppliers free of Chinese ties the advantage.
+- The longest supply contract found, six years, is for substrates made in China.
 - The study's own judgement put a widely adopted ownership-based rule by 2028 at low likelihood. That is an opinion, not a sourced estimate.
 
 **What this means.** The premise is a view about the direction of policy and customer behaviour over a decade. Today's evidence shows movement in that direction and no rule that delivers it. Voluntary customer preference, which may matter more than regulation, was not researched: it would need conversations with buyers.
 
 ## What was not examined
 
-- **Private companies.** Thirteen were profiled, all Japanese, from their websites. Korean and Taiwanese registries and industry lists could not be opened.
-- **Most sources.** At most about a third were read in full or in part; the rest were seen only as search-result extracts.
+- **Private companies.** Thirteen were profiled, twelve Japanese and one Korean, ten of them from their own websites. Korean and Taiwanese registries and industry lists could not be opened.
+- **Most sources.** About 39% were read in full or in part, mostly as extracted text. The rest were seen only as search-result extracts or not retrieved.
 - **Primary evidence.** No company, customer, adviser or industry expert was contacted. No paid market research or company database was used.
-- **Whole areas:** sensing, medical, industrial and defence photonics; non-AI optics as an investment case; services and distribution.
+- **Whole areas.** No company search was run in services, distribution, industrial lasers, medical or sensing. Industrial lasers and semiconductor-equipment optics were examined for margins only, and makers of non-AI precision optics were screened but not modelled.
 - **Shareholder look-through** for any company.
 
 ## An illustration
@@ -82,11 +83,11 @@ The study covered Asia Pacific only. US and European suppliers were used for com
 To show what the theme looks like in one company, the study modelled LandMark Optoelectronics (Taiwan), a maker of laser wafers. It is an example of the kind of business the strategy points to, not a proposed investment.
 
 - Its stated target is 2.5 times output in 2027 and again in 2028, with signed orders above this year's revenue.
-- On company evidence, a central case returns about 1.6x at NT$1,900 a share, and 2.0x if bought near NT$1,550. A low case returns well under 1.0x, so capital would be lost.
+- On those targets, which come from press reports of its investor calls, a central case returns about 1.6x at NT$1,900 a share, and 2.0x if bought near NT$1,550. A high case returns about 3.9x and a low case about 0.7x.
 - It has a stated plan to place up to 4.4% of its shares with strategic investors.
-- Points to weigh: 71% of sales go to Chinese customers; its ownership and manufacturing check is provisional; US$500m buys under 10% at the current price; the case fails if wafer prices fall about 5% a year.
+- Points to weigh: 71% of sales go to Chinese customers; its ownership and manufacturing check is provisional; US$500m buys about 8.5% at the current price; growth after 2028 is assumed; the central case falls to about 1.3x if wafer prices decline 5% a year.
 
-A second wafer maker, VPEC, was modelled and does not work at current prices.
+A second wafer maker, VPEC, was also modelled. At current prices its central case returns about 1.3x and its high case about 2.1x.
 
 ## The questions that decide it
 
@@ -102,4 +103,4 @@ The study reached the limit of what public sources show. Five questions remain o
 
 This paper and the evidence pack behind it are offered as a starting point for considering photonics as a constrained-supply theme. The pack marks the dead ends already tested, names the steps where supply is short, and gives the evidence behind each statement made here.
 
-*Method: desk research from public sources, 12–16 November 2026. About a third of logged sources were read in full or in part; the rest were seen as search-result extracts. Figures come from the study's own outputs. Share prices were moving up to 10% a day at the time of writing.*
+*Method: desk research from public sources, 12–16 November 2026. About 39% of logged sources were read in full or in part; the rest were seen as search-result extracts or not retrieved. Figures come from the study's own outputs. Share prices were moving up to 10% a day at the time of writing.*
