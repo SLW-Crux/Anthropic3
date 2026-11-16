@@ -4,7 +4,7 @@
 
 ## The proposal
 
-Photonics is a candidate theme for capital seeking constrained supply outside China. Demand is being driven by AI data centres, supply is short in specific steps of the chain, and buyers are starting to secure supply that has no Chinese ties. This paper sets out what a first study found, what it could not reach, and what a fund's own resources would add.
+Photonics is a candidate theme for capital seeking constrained supply outside China. Demand is being driven by AI data centres, supply is short in specific steps of the chain, and buyers are starting to secure supply that has no Chinese ties. This paper sets out what a first study found, what it could not reach, and the questions it leaves open.
 
 ## What this is
 
@@ -34,7 +34,7 @@ These are the working terms the study used. A fund would set its own.
 - Minority stakes with influence, of up to US$500m each. No unproven markets or products.
 - Results were measured against a reference return of 2.0x and 15% a year.
 
-The study covered Asia Pacific only. US and European suppliers were used for comparison and were not screened. Several of the scarcest steps are held by US companies as well as Japanese and Taiwanese ones, so extending the work to those regions is a natural next step for a fund whose remit is anywhere outside China.
+The study covered Asia Pacific only. US and European suppliers were used for comparison and were not screened. Several of the scarcest steps are held by US companies as well as Japanese and Taiwanese ones, so the same questions apply there.
 
 ## What the research supports
 
@@ -88,17 +88,18 @@ To show what the theme looks like in one company, the study modelled LandMark Op
 
 A second wafer maker, VPEC, was modelled and does not work at current prices.
 
-## What a fund's resources would add
+## The questions that decide it
 
-The study reached the limit of public sources. Four things it could not do are routine for a fund:
+The study reached the limit of what public sources show. Five questions remain open, and the case turns on them:
 
-1. Screen private companies in Japan, Korea and Taiwan using a company database with shareholders and accounts.
-2. Talk to companies, their customers and sector advisers, especially about prices after 2027 and whether buyers already favour suppliers free of Chinese ties.
-3. Build a sourced demand and supply model by step, to 2035.
-4. Extend the screen to US and European suppliers.
+1. Which private suppliers in Japan, Korea and Taiwan are free of Chinese ties, and are any of them open to an investor?
+2. What will laser wafers and chips sell for after 2027, when the capacity now being built arrives?
+3. Do buyers already favour suppliers free of Chinese ties, ahead of any rule that requires it?
+4. How long does the shortage last in each step of the chain?
+5. Does the same pattern hold among US and European suppliers?
 
-## Proposed next step
+## Next step
 
-That the fund assesses photonics as a constrained-supply theme using its own data and network, starting from this study and the evidence pack behind it. The pack marks the dead ends already tested, names the steps where supply is short, and sets out the questions that decide the outcome.
+This paper and the evidence pack behind it are offered as a starting point for considering photonics as a constrained-supply theme. The pack marks the dead ends already tested, names the steps where supply is short, and gives the evidence behind each statement made here.
 
 *Method: desk research from public sources, 12–16 November 2026. About a third of logged sources were read in full or in part; the rest were seen as search-result extracts. Figures come from the study's own outputs. Share prices were moving up to 10% a day at the time of writing.*
