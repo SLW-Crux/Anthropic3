@@ -27,7 +27,7 @@ If that holds, suppliers free of Chinese ties gain a lasting advantage, and capa
 
 ## The proposed strategy, as tested
 
-These are the working terms the study used. A fund would set its own.
+These are the working terms the study used, not a proposed mandate.
 
 - Find where demand for photonics outruns supply for long enough to matter, which suppliers are free of Chinese ties, and which of them can be reached.
 - Asia Pacific, excluding mainland China, Hong Kong and Macau. No company with Chinese shareholders, manufacturing in China, or manufacturing with Chinese companies.
@@ -84,7 +84,7 @@ To show what the theme looks like in one company, the study modelled LandMark Op
 - Its stated target is 2.5 times output in 2027 and again in 2028, with signed orders above this year's revenue.
 - On company evidence, a central case returns about 1.6x at NT$1,900 a share, and 2.0x if bought near NT$1,550. A low case returns well under 1.0x, so capital would be lost.
 - It has a stated plan to place up to 4.4% of its shares with strategic investors.
-- Points a fund would weigh: 71% of sales go to Chinese customers; its ownership and manufacturing check is provisional; US$500m buys under 10% at the current price; the case fails if wafer prices fall about 5% a year.
+- Points to weigh: 71% of sales go to Chinese customers; its ownership and manufacturing check is provisional; US$500m buys under 10% at the current price; the case fails if wafer prices fall about 5% a year.
 
 A second wafer maker, VPEC, was modelled and does not work at current prices.
 
