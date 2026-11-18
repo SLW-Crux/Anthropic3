@@ -1,6 +1,6 @@
 # Photonics as a constrained-supply theme outside China: preliminary case
 
-**Scoping study. Status at 16 November 2026. For consideration, not for decision.**
+**Scoping study. Status at 18 November 2026. For consideration, not for decision.**
 
 ## The proposal
 
@@ -42,7 +42,7 @@ The study covered Asia Pacific only. US and European suppliers were used for com
 - **Supply is short in specific steps:** indium-phosphide substrates, laser wafers and the best laser chips. Buyers have signed supply contracts of four to six years, the longest to 2031, and are prepaying for capacity.
 - **Profit sits with the scarce steps.** The leading laser maker's operating margin is about 42% on an adjusted basis and 28% as reported. Contract manufacturers earn about 10%.
 - **Listed companies are priced for this.** Minority stakes at November 2026 prices do not reach 2.0x in any central case.
-- **Few regional suppliers are free of Chinese ties today.** About half of those screened fail on a plant, a partner or a shareholder in China, and most of the rest could not be confirmed either way. That makes clean capacity rare, which is the point of the premise, and it also leaves few listed companies to invest in. No company yet has a verified pass.
+- **Few regional suppliers are free of Chinese ties today.** About half of those screened fail on a plant, a partner or a shareholder in China, and most of the rest could not be confirmed either way. That makes clean capacity rare, which is the point of the premise, and it also leaves few listed companies to invest in. In Japan, Taiwan and Korea no company has yet been verified as free of Chinese ties; a later check elsewhere in the region verified three (see "The rest of the region").
 
 ## What is not established
 
@@ -78,6 +78,16 @@ The study covered Asia Pacific only. US and European suppliers were used for com
 - **Whole areas.** No company search was run in services, distribution, industrial lasers, medical or sensing. Industrial lasers and semiconductor-equipment optics were examined for margins only, and makers of non-AI precision optics were screened but not modelled.
 - **Shareholder look-through** for any company.
 
+## The rest of the region
+
+A first pass was also made over Singapore, Malaysia, Thailand, Vietnam, India and Australia. It listed about 75 companies. Eight with readable annual reports were then examined in full for shareholders, manufacturing sites and partners.
+
+- **Free of Chinese ties (3):** HFCL and Finolex in India, cable makers whose products include optical fibre, and BluGlass in Australia, which makes visible-light lasers.
+- **A wholly owned Chinese unit, with no Chinese shareholder or partner found (3):** Pentamaster and Cape EMS in Malaysia, and STL in India. The owner of STL's largest shareholder is not stated in its report.
+- **Could not be confirmed (2):** ownership behind the main holders is not stated.
+
+None of the eight works in the steps that are short for data-centre optics. Much of the new capacity arriving in Thailand and Vietnam belongs to Chinese module makers and to US groups. The other companies listed, most of them private, could not be checked from public sources, and Indonesia and the Philippines were not covered.
+
 ## An illustration
 
 To show what the theme looks like in one company, the study modelled LandMark Optoelectronics (Taiwan), a maker of laser wafers. It is an example of the kind of business the strategy points to, not a proposed investment.
@@ -103,4 +113,4 @@ The study reached the limit of what public sources show. Five questions remain o
 
 This paper and the evidence pack behind it are offered as a starting point for considering photonics as a constrained-supply theme. The pack marks the dead ends already tested, names the steps where supply is short, and gives the evidence behind each statement made here.
 
-*Method: desk research from public sources, 12–16 November 2026. About 39% of logged sources were read in full or in part; the rest were seen as search-result extracts or not retrieved. Figures come from the study's own outputs. Share prices were moving up to 10% a day at the time of writing.*
+*Method: desk research from public sources, 12–18 November 2026. About 39% of logged sources were read in full or in part; the rest were seen as search-result extracts or not retrieved. Figures come from the study's own outputs. Share prices were moving up to 10% a day at the time of writing.*
